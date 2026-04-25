@@ -1,0 +1,1091 @@
+{\rtf1\ansi\ansicpg936\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fswiss\fcharset0 Helvetica-Oblique;
+\f3\fswiss\fcharset0 Helvetica-BoldOblique;\f4\fnil\fcharset0 LucidaGrande-Bold;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red52\green61\blue65;
+\red20\green157\blue167;\red201\green0\blue26;\red231\green0\blue29;\red140\green70\blue14;\red140\green70\blue14;
+\red52\green61\blue65;\red217\green232\blue231;\red20\green157\blue167;\red217\green232\blue231;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;\cssrgb\c26275\c30588\c32157;
+\cssrgb\c0\c67451\c71373;\cssrgb\c83529\c9804\c12941;\cssrgb\c93333\c10980\c14510\c20000;\cssrgb\c62353\c34902\c5490;\cssrgb\c62353\c34902\c5490\c20000;
+\cssrgb\c26275\c30588\c32157;\cssrgb\c87843\c92549\c92549\c50196;\cssrgb\c0\c67451\c71373;\cssrgb\c87843\c92549\c92549\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid14}
+{\list\listtemplateid15\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid15}
+{\list\listtemplateid16\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid16}
+{\list\listtemplateid17\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid17}
+{\list\listtemplateid18\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid18}
+{\list\listtemplateid19\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid19}
+{\list\listtemplateid20\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid20}
+{\list\listtemplateid21\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid21}
+{\list\listtemplateid22\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid22}
+{\list\listtemplateid23\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid23}
+{\list\listtemplateid24\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid24}
+{\list\listtemplateid25\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid25}
+{\list\listtemplateid26\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid26}
+{\list\listtemplateid27\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid27}
+{\list\listtemplateid28\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid28}
+{\list\listtemplateid29\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid29}
+{\list\listtemplateid30\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid30}
+{\list\listtemplateid31\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid31}
+{\list\listtemplateid32\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid32}
+{\list\listtemplateid33\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid33}
+{\list\listtemplateid34\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid34}
+{\list\listtemplateid35\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid35}
+{\list\listtemplateid36\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid36}
+{\list\listtemplateid37\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid37}
+{\list\listtemplateid38\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid38}
+{\list\listtemplateid39\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid39}
+{\list\listtemplateid40\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid40}
+{\list\listtemplateid41\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid4001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid41}
+{\list\listtemplateid42\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid4101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid42}
+{\list\listtemplateid43\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid4201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid43}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}{\listoverride\listid18\listoverridecount0\ls18}{\listoverride\listid19\listoverridecount0\ls19}{\listoverride\listid20\listoverridecount0\ls20}{\listoverride\listid21\listoverridecount0\ls21}{\listoverride\listid22\listoverridecount0\ls22}{\listoverride\listid23\listoverridecount0\ls23}{\listoverride\listid24\listoverridecount0\ls24}{\listoverride\listid25\listoverridecount0\ls25}{\listoverride\listid26\listoverridecount0\ls26}{\listoverride\listid27\listoverridecount0\ls27}{\listoverride\listid28\listoverridecount0\ls28}{\listoverride\listid29\listoverridecount0\ls29}{\listoverride\listid30\listoverridecount0\ls30}{\listoverride\listid31\listoverridecount0\ls31}{\listoverride\listid32\listoverridecount0\ls32}{\listoverride\listid33\listoverridecount0\ls33}{\listoverride\listid34\listoverridecount0\ls34}{\listoverride\listid35\listoverridecount0\ls35}{\listoverride\listid36\listoverridecount0\ls36}{\listoverride\listid37\listoverridecount0\ls37}{\listoverride\listid38\listoverridecount0\ls38}{\listoverride\listid39\listoverridecount0\ls39}{\listoverride\listid40\listoverridecount0\ls40}{\listoverride\listid41\listoverridecount0\ls41}{\listoverride\listid42\listoverridecount0\ls42}{\listoverride\listid43\listoverridecount0\ls43}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Introduction\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Les probl\'e8mes pos\'e9s par les reprises peuvent \'eatre de diff\'e9rentes natures. Voici quelques questions \'e0 se poser, sans souci d'exhaustivit\'e9 :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls1\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Comment choisir la bonne reprise en fonction de l'{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897029/mod_resource/content/11/co/B-CHOIX_DES_REPRISES_2.html#footnotesN58"}}{\fldrslt 
+\f0\b \cf5 \strokec5 ant\'e9c\'e9dent}}\'a0et du contexte ?\cb1 \strokec4 \
+\ls1\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Quand peut-on utiliser les pronoms\'a0
+\f2\i cela
+\f1\i0 \'a0et\'a0
+\f2\i \'e7a
+\f1\i0 \'a0? par quoi les remplacer pour \'eatre \'e0 la fois plus pr\'e9cis et plus informatif ?\cb1 \strokec4 \
+\ls1\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Comment bien choisir l'\'e9l\'e9ment lexical pour effectuer la reprise ?\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 C'est \'e0 ces questions que ce module r\'e9pond, pour vous aider \'e0 progresser dans la gestion des reprises. En effet, les probl\'e8mes de reprise peuvent g\'eaner consid\'e9rablement la lecture et conduire \'e0 une mauvaise compr\'e9hension ou une mauvaise \'e9valuation de votre texte !\cb1 \
+\cb2 Dans ce module, nous verrons essentiellement\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls2\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Comment bien utiliser les reprises pronominales pour \'eatre clair.\cb1 \strokec4 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls3\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Comment bien utiliser les reprises nominales pour \'eatre lisible.\cb1 \strokec4 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 \strokec3 Bien choisir les reprises pronominales\'a0pour \'e9viter les ambigu\'eft\'e9s\
+\pard\pardeftab720\sa336\partightenfactor0
+
+\fs33\fsmilli16848 \cf0 \cb2 \strokec3 Objectifs\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Quand on ne peut pas relier imm\'e9diatement la reprise \'e0 ce qu'elle reprend (son ant\'e9c\'e9dent), il y a un risque d'ambigu\'eft\'e9\'a0: celui qui lit votre texte ne sait pas exactement ce qui est repris, de quoi parle le texte, et doit relire plusieurs fois avant de comprendre.\cb1 \
+\cb2 Dans cette activit\'e9, vous allez donc prendre conscience des probl\'e8mes d\'92ambigu\'eft\'e9 li\'e9s aux reprises pronominales et les corriger.\cb1 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 Fiche\'a0:\'a0Bien choisir les reprises pronominales\
+\pard\pardeftab720\li300\fi-300\partightenfactor0
+
+\fs34\fsmilli17280 \cf4 \cb2 \strokec4 Un seul ant\'e9c\'e9dent\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Dans le cas des reprises pronominales, particuli\'e8rement des reprises de la forme
+\f3\i\b \cb2 \strokec3 \'a0il(s)
+\f2\b0 \cb2 \strokec3 \'a0/\'a0
+\f3\b \cb2 \strokec3 elle(s)
+\f2\b0 \cb2 \strokec3 ,
+\f1\i0 \cb2 \strokec3 \'a0les probl\'e8mes de compr\'e9hension surgissent quand il y a plusieurs \'e9l\'e9ments de m\'eame genre et de m\'eame nombre qui peuvent \'eatre repris. En effet les pronoms\'a0
+\f3\i\b \cb2 \strokec3 il(s) / elle(s)
+\f1\i0\b0 \cb2 \strokec3 \'a0peuvent reprendre soit l'\'e9l\'e9ment le plus proche du m\'eame genre et du m\'eame nombre, soit l'\'e9l\'e9ment\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897029/mod_resource/content/11/co/B-CHOIX_DES_REPRISES_7.html#footnotesN66"}}{\fldrslt 
+\f0\b \cf5 \cb2 \strokec5 sujet}}\'a0du m\'eame genre ou du m\'eame nombre, surtout s'ils renvoient \'e0 un humain ou \'e0 un \'eatre anim\'e9. Par exemple dans la phrase suivante :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls4\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Eric B., 28 ans, Genevois, avait rendez-vous avec sa victime, Carlo B. Il lui devait une somme de 100F pour une livraison de haschisch. (
+\f2\i La Suisse
+\f1\i0 , cit\'e9 dans Reichler-B\'e9guelin et al.,\'a0
+\f2\i \'c9crire en fran\'e7ais
+\f1\i0 , Delachaux et Niestl\'e9)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 deux interpr\'e9tations sont possibles : Eric B. devait \'e0 Carlo B. une somme de 100F ou bien Carlo B. devait \'e0 Eric B. une somme de 100F. Du point de vue de la r\'e9alit\'e9, les deux sc\'e9narios sont \'e9galement possibles et le lecteur ne peut choisir avec certitude...\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 Pour \'e9viter l'ambigu\'eft\'e9
+\f1\b0 \cb2 \strokec3 \'a0on peut utiliser d'autres pronoms de reprise :\'a0
+\f2\i \cb2 \strokec3 celui-ci
+\f1\i0 \cb2 \strokec3 \'a0ou\'a0
+\f2\i \cb2 \strokec3 ce dernier
+\f1\i0 \cb2 \strokec3 \'a0s'emploient pour reprendre un \'e9l\'e9ment qui les pr\'e9c\'e8de imm\'e9diatement, \'e0 la fin de la phrase pr\'e9c\'e9dente. Dans l'exemple suivant\'a0
+\f2\i \cb2 \strokec3 ceux-ci
+\f1\i0 \cb2 \strokec3 \'a0reprend le COD\'a0
+\f2\i \cb2 \strokec3 les meilleurs
+\f1\i0 \cb2 \strokec3 \'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls5\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Les \'e9tablissements dont les r\'e9sultats sont les plus faibles tirent les meilleurs vers le bas.\'a0
+\f0\b Ceux-ci
+\f1\b0 \'a0sont d'ailleurs souvent chahut\'e9s par les autres \'e9l\'e8ves, d\'e8s la sixi\'e8me.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Pour reprendre le dernier \'e9l\'e9ment d'une \'e9num\'e9ration, on emploiera de pr\'e9f\'e9rence\'a0
+\f2\i \cb2 \strokec3 ce dernier
+\f1\i0 \cb2 \strokec3 .\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls6\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Les diff\'e9rentes fili\'e8res de l'enseignement sup\'e9rieur fran\'e7ais ne sont pas dot\'e9es du m\'eame prestige ni du m\'eame financement.\'a0
+\f0\b Ce dernier
+\f1\b0 \'a0peut en effet passer du simple au double : 7000 euros d\'e9pens\'e9s par les pouvoirs publics en 2007 pour un \'e9tudiant d'universit\'e9 contre 13 700 euros pour un \'e9l\'e8ve de classe pr\'e9paratoire.\cb1 \strokec4 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf6 \cb2 \strokec6 Attention\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \cb2 \strokec4 Bien utiliser \'ab ce dernier \'bb\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i\b0\fs28\fsmilli14400 \cf0 \cb7 \strokec3 Ce dernier
+\f1\i0 \'a0doit \'eatre convenablement employ\'e9 et renvoyer \'e0 un \'e9l\'e9ment situ\'e9 juste avant lui. Par exemple, il est mal employ\'e9 dans l'extrait suivant :\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls7\ilvl0\cf4 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 L'ampleur de la pol\'e9mique d\'e9clench\'e9e par le discours de Nicolas Sarkozy \'e0 Dakar a laiss\'e9 libre champ aux critiques et r\'e9actions diverses. Hommes de lettres et politiques ont r\'e9agi \'e0\'a0
+\f0\b ce dernier
+\f1\b0 .\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb7 \strokec3 Il faudrait \'e9crire :\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls8\ilvl0\cf4 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 L'ampleur de la pol\'e9mique d\'e9clench\'e9e par le discours de Nicolas Sarkozy \'e0 Dakar a laiss\'e9 libre champ aux critiques et r\'e9actions diverses. Hommes de lettres et politiques ont r\'e9agi \'e0\'a0
+\f0\b ce discours
+\f1\b0 .\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb7 \strokec3 Pour r\'e9soudre l'ambigu\'eft\'e9, on a toujours la possibilit\'e9 de\'a0
+\f0\b r\'e9p\'e9ter le mot repris
+\f1\b0 , en utilisant une reprise nominale :\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls9\ilvl0\cf4 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Les \'e9tablissements dont les r\'e9sultats sont les plus faibles tirent les meilleurs vers le bas.\'a0
+\f0\b Ces \'e9tablissements
+\f1\b0 \'a0sont souvent situ\'e9s en banlieue.\cb1 \strokec4 \
+\pard\pardeftab720\li300\fi-300\partightenfactor0
+
+\f0\b\fs34\fsmilli17280 \cf4 \cb2 Un ant\'e9c\'e9dent identifiable\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Une reprise pronominale
+\f0\b \cb2 \strokec3 \'a0doit toujours pouvoir \'eatre mise en relation avec un ant\'e9c\'e9dent explicitement pr\'e9sent
+\f1\b0 \cb2 \strokec3 \'a0dans le texte. Par exemple dans l'extrait de copie suivant\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls10\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Walter nous explique qu'en 1900, \'ab la France \'e9tait surtout caract\'e9ris\'e9e par l'existence de plusieurs langues r\'e9gionales bien vivantes \'bb puis que quelques ann\'e9es plus tard,\'a0
+\f0\b elle
+\f1\b0 \'a0devient \'ab la langue de tous les Fran\'e7ais \'bb. (copie, licence)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 \strokec3 Elle
+\f1\i0 \cb2 \strokec3 \'a0ne peut pas \'eatre mis en relation avec un\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897029/mod_resource/content/11/co/B-CHOIX_DES_REPRISES_7.html#footnotesNef"}}{\fldrslt 
+\f0\b \cf5 \cb2 \strokec5 groupe nominal}}\'a0f\'e9minin singulier dans la phrase pr\'e9c\'e9dente (o\'f9 seul appara\'eet
+\f2\i \cb2 \strokec3 \'a0La France
+\f1\i0 \cb2 \strokec3 ).\cb1 \
+\pard\pardeftab720\li300\fi-300\partightenfactor0
+
+\f0\b\fs34\fsmilli17280 \cf4 \cb2 \strokec4 Bien faire le lien avec l'ant\'e9c\'e9dent\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Les reprises par un pronom (
+\f2\i \cb2 \strokec3 il, elle, lui, leur, celui-ci.
+\f1\i0 \cb2 \strokec3 ..) ou un\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897029/mod_resource/content/11/co/B-CHOIX_DES_REPRISES_7.html#footnotesN11d"}}{\fldrslt 
+\f0\b \cf5 \cb2 \strokec5 d\'e9terminant}}\'a0possessif (
+\f2\i \cb2 \strokec3 son, sa, ses, leur, leurs
+\f1\i0 \cb2 \strokec3 )\'a0
+\f0\b \cb2 \strokec3 doivent respecter le genre et le nombre de l'\'e9l\'e9ment repris\'a0
+\f1\b0 \cb2 \strokec3 (ant\'e9c\'e9dent). Or on observe fr\'e9quemment des probl\'e8mes de genre et/ou de nombre entre l'\'e9l\'e9ment repris et le pronom, surtout quand l'\'e9l\'e9ment repris a une valeur\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897029/mod_resource/content/11/co/B-CHOIX_DES_REPRISES_7.html#footnotesN13d"}}{\fldrslt 
+\f0\b \cf5 \cb2 \strokec5 g\'e9n\'e9rique}}\'a0ou collective. Par exemple :\cb1 \
+\cb2 \'95 Je ne saurais dire avec quel beau courage le peuple belge supporte cette situation angoissante.\'a0
+\f0\b \cb2 \strokec3 Ils
+\f1\b0 \cb2 \strokec3 \'a0sont terriblement g\'ean\'e9s dans leur industrie et dans leur commerce. (G. Duhamel)\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 \strokec3 Ils
+\f1\i0 \cb2 \strokec3 \'a0qui est masculin pluriel reprend\'a0
+\f2\i \cb2 \strokec3 le peuple belge
+\f1\i0 \cb2 \strokec3 \'a0qui est masculin singulier. Comme l'indique l'exemple, ce qui est tol\'e9r\'e9 dans le cas des \'e9crivains ne l'est pas quand il s'agit de copies d'\'e9tudiants pour lesquels on pense qu'il s'agit d'une maladresse !\cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf6 \cb2 \strokec6 Attention\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \cb2 \strokec4 Les reprises en \'ab cela \'bb\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb7 \strokec3 Il faut \'e9viter dans la mesure du possible de reprendre par\'a0
+\f2\i cela
+\f1\i0 , qui manque de pr\'e9cision. On ne peut le faire que quand on veut reprendre un contenu large (l'ensemble de la phrase pr\'e9c\'e9dente par exemple) difficile \'e0 r\'e9sumer en un seul nom, comme dans l'exemple suivant :\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls11\ilvl0\cf4 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Il est attendu des demandeurs qu'ils fassent eux-m\'eames la preuve que leur situation justifie l'obtention d'une allocation.\'a0
+\f0\b Cela
+\f1\b0 \'a0conduit entre autres choses \'e0 un renforcement du contr\'f4le des assist\'e9s sociaux, tr\'e8s net en particulier depuis le d\'e9but des ann\'e9es 2000.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb7 \strokec3 cette attente
+\f1\i0 \'a0ne conviendrait pas car le nom ne dit pas la m\'eame chose que l'expression\'a0
+\f2\i il est attendu de
+\f1\i0 . On pourrait reprendre aussi par\'a0
+\f2\i cette exigence
+\f1\i0 .\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls12\ilvl0\cf4 \cb7 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Les rapports de police semblent attester une attitude hostile des commer\'e7ants \'e9tablis envers les marchands ambulants, mais\'a0
+\f0\b cela
+\f1\b0 \'a0devrait \'eatre corrobor\'e9 par d'autres sources.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb7 \strokec3 cette attitude
+\f1\i0 \'a0ne conviendrait pas car ce qui est repris, c'est ce que semblent attester les rapports de police. On pourrait reprendre aussi par\'a0
+\f2\i ce constat
+\f1\i0 \'a0ou\'a0
+\f2\i ces conclusions
+\f1\i0 .\cb1 \strokec3 \
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \tamart300 \trmarl2134 \tamarb300 \trmarr2134 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth11151\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\li47\fi-48\ri48\sa23\partightenfactor0
+
+\fs24 \cf0 \cb7 \strokec3 Mais la plupart du temps le pronom\'a0
+\f2\i cela
+\f1\i0 \'a0est mal employ\'e9 dans les copies des \'e9tudiants, car il ne reprend pas l'ensemble de la phrase et devrait \'eatre remplac\'e9 par un nom pr\'e9c\'e9d\'e9 de\'a0
+\f2\i ce
+\f1\i0 \'a0ou de\'a0
+\f2\i le
+\f1\i0 . Quant \'e0 la forme\'a0
+\f2\i \'e7a
+\f1\i0 , elle est caract\'e9ristique de l'oral et on ne l'emploie pas dans un \'e9crit universitaire....\cb1 \cell \lastrow\row
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf8 \cb2 \strokec8 Fondamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb9 \strokec3 Les probl\'e8mes de r\'e9daction que peuvent occasionner les reprises sont divers. Le principe \'e0 l'\'e9crit est\'a0
+\f0\b d'\'e9viter toute ambigu\'eft\'e9
+\f1\b0 \'a0afin de ne pas obliger le lecteur \'e0 chercher \'e0 quoi renvoie le terme de reprise.\cb1 \strokec3 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 Fiche\'a0: Diff\'e9rentes fa\'e7ons de reprendre par un nom\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Il existe diff\'e9rents moyens de reprendre par un nom. Les conna\'eetre vous permettra de mieux construire vos textes et d'\'e9viter les pi\'e8ges\'a0!\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \strokec3 \uc0\u8594 
+\f0  Reprendre par le d\'e9riv\'e9
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Une fa\'e7on de reprendre est d'utiliser le d\'e9riv\'e9 du verbe de la phrase pr\'e9c\'e9dente. La coh\'e9sion du texte est alors tr\'e8s forte.\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls13\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 M. Franz Varnitzky, le chancelier de l'\'e9poque, mais aussi le pr\'e9sident Waldheim,\'a0
+\f0\b ont reconnu
+\f1\b0 \'a0officiellement que les Autrichiens avaient \'e9t\'e9 impliqu\'e9s dans les crimes commis au nom du IIIe Reich.\'a0
+\f0\b Cette reconnaissance
+\f1\b0 \'a0figure aussi dans le document que le pr\'e9sident Thomas Klestil a fait signer, le 3 f\'e9vrier dernier, au chancelier conservateur chr\'e9tien Wolfang Sch\'fcssel et \'e0 son alli\'e9 national-populiste avant d'introniser leur gouvernement... (presse, article sur l'Autriche, 2001).\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 \strokec3 Reconna\'eetre
+\f1\i0 \cb2 \strokec3 \'a0est repris par\'a0
+\f2\i \cb2 \strokec3 cette reconnaissance
+\f1\i0 \cb2 \strokec3 .\cb1 \
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \tamart300 \trmarl2224 \tamarb300 \trmarr2224 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth11151\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf4 \clbrdrl\brdrs\brdrw20\brdrcf4 \clbrdrb\brdrs\brdrw20\brdrcf4 \clbrdrr\brdrs\brdrw20\brdrcf4 \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\li47\fi-48\ri48\sa23\partightenfactor0
+
+\fs24 \cf0 \cb2 \strokec3 Il arrive que l'on se trompe dans le choix du nom ou qu'il n'existe aucun nom correspondant au verbe que l'on veut reprendre, ou encore que le nom d\'e9riv\'e9 ne s\'e9lectionne pas un sens diff\'e9rent de celui du verbe de la phrase pr\'e9c\'e9dente !\cb1 \
+\cb2 Par exemple\'a0
+\f2\i d\'e9pouillement
+\f1\i0 \'a0correspond au verbe\'a0
+\f2\i d\'e9pouiller
+\f1\i0 \'a0seulement si l'on parle d'\'e9lections...\cb1 \cell \lastrow\row
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b\fs28\fsmilli14400 \cf0 \cb2 \strokec3 \uc0\u8594 
+\f0  Reprendre avec un synonyme
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Le nom utilis\'e9 dans l'\'e9l\'e9ment de reprise peut \'e9galement \'eatre un nom de sens proche (un synonyme) :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls14\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Ghislaine montre en ce moment un grand\'a0
+\f0\b enthousiasme
+\f1\b0 \'a0pour son nouveau travail.\'a0
+\f0\b Cet engouement
+\f1\b0 \'a0favorisera sans doute son cheminement dans la compagnie. (site CCDMD)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 \strokec3 Engouement
+\f1\i0 \cb2 \strokec3 \'a0est un quasi-synonyme de\'a0
+\f2\i \cb2 \strokec3 enthousiasme
+\f1\i0 \cb2 \strokec3 \'a0qu'il reprend.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \strokec3 \uc0\u8594 
+\f0  Reprendre avec un nom de sens plus g\'e9n\'e9ral\'a0
+\f1\b0 \cb2 \strokec3 (un hyperonyme) :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls15\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Le maire de la ville de Santa Fe, dans le centre de l'Argentine, avait pris la d\'e9cision d'interdire toute utilisation d'animaux vivants dans les spectacles publics. Cet \'e9mule sud-am\'e9ricain de Brigitte Bardot a d\'e9j\'e0 fait une victime : l'\'e9l\'e9phant d'un cirque espagnol en tourn\'e9e \'e0 travers l'Am\'e9rique latine qui faisait \'e9tape dans la localit\'e9. Cruellement priv\'e9 des applaudissements de la foule et des flonflons de l'orchestre,\'a0
+\f0\b le pachyderme
+\f1\b0 \'a0a sombr\'e9 dans une profonde d\'e9pression. (presse)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 \strokec3 Pachyderme
+\f1\i0 \cb2 \strokec3 \'a0est un nom de sens plus g\'e9n\'e9ral que\'a0
+\f2\i \cb2 \strokec3 \'e9l\'e9phant
+\f1\i0 \cb2 \strokec3 \'a0qu'il reprend : il regroupe l'\'e9l\'e9phant, l'hippopotame ou encore le rhinoc\'e9ros.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \strokec3 \uc0\u8594 
+\f0  Reprendre avec un nom \'ab surprenant \'bb
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans une reprise avec un d\'e9monstratif, le nom peut \'eatre tr\'e8s diff\'e9rent de ce qu'il reprend, car il introduit un point de vue personnel sur l'\'e9l\'e9ment repris. C'est ce que nous avons vu dans cet exemple \'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls16\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Il a perdu toute sa fortune au jeu. Gr\'e2ce \'e0\'a0
+\f0\b cette aubaine
+\f1\b0 , il a enfin pu comprendre le sens de la vie.\cb1 \strokec4 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 \strokec3 Conclusion\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Ce module, centr\'e9 sur la r\'e9daction, vous a fait prendre conscience de l'importance de bien choisir ses reprises pour assurer la clart\'e9 et la lisibilit\'e9 de ses textes. Vous avez vu que les probl\'e8mes venaient essentiellement de deux sources\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls17\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 La relation entre la reprise et son ant\'e9c\'e9dent doit \'eatre imm\'e9diate.\cb1 \strokec4 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls18\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Le choix du terme de reprise doit \'eatre ad\'e9quat \'e0 ce qui est repris.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Enfin, vous avez vu qu'il \'e9tait parfois n\'e9cessaire de r\'e9p\'e9ter pour \'e9viter toute ambigu\'eft\'e9.\cb1 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 \outl0\strokewidth0 \
+\
+Introduction\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Pour qu'un texte soit facile \'e0 lire, il faut qu'on y trouve \'e0 la fois des informations nouvelles, qui le font \'ab avancer \'bb mais aussi des \'e9l\'e9ments d\'e9j\'e0 donn\'e9s, qui sont \'ab repris \'bb. Il existe ainsi toute une s\'e9rie d'expressions qui peuvent servir \'e0 reprendre un \'e9l\'e9ment d\'e9j\'e0 pr\'e9sent dans le texte.\'a0
+\f0\b Ces reprises constituent un aspect essentiel de la coh\'e9sion du texte
+\f1\b0 . Elles permettent d'avoir un fil conducteur, de garder le m\'eame th\'e8me, de passer d'un th\'e8me \'e0 un th\'e8me associ\'e9, de revenir au premier. Gr\'e2ce \'e0 ces reprises, on peut modifier le point de vue sur ce dont il est question dans le texte.\'a0
+\f0\b Il est donc indispensable de bien ma\'eetriser ces reprises pour bien comprendre un texte.
+\f1\b0 \'a0En effet, la compr\'e9hension d'un texte \'e9crit suppose de mettre en relation les reprises avec ce qu'elles reprennent, de les mettre en relation entre elles, et de saisir en quoi ces reprises permettent \'e0 la fois de suivre la coh\'e9sion du texte et son dynamisme.\cb1 \
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \tamart300 \trmarl2224 \tamarb300 \trmarr2224 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth11151\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf10 \clbrdrl\brdrs\brdrw20\brdrcf10 \clbrdrb\brdrs\brdrw20\brdrcf10 \clbrdrr\brdrs\brdrw20\brdrcf10 \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\li47\fi-48\ri48\sa23\partightenfactor0
+
+\f0\b\fs24 \cf0 \cb2 Pour reprendre un \'e9l\'e9ment d'un texte, on peut utiliser des formes vari\'e9es. Dans ce premier module, nous allons 1) d\'e9couvrir ensemble les diff\'e9rents types de reprises
+\f1\b0 \'a0
+\f0\b et 2) montrer quel r\'f4le elles jouent dans la compr\'e9hension d'un texte.
+\f1\b0 \cb1 \cell \lastrow\row
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\fs28\fsmilli14400 \cf0 \cb11 Comme vous avez pu le constater avec le petit exercice qui pr\'e9c\'e8de, les mots qui permettent de reprendre sont tr\'e8s divers. Il y a d'un c\'f4t\'e9 des\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN5e"}}{\fldrslt 
+\f0\b \cf12 pronoms}}\'a0(
+\f2\i il, lui, y, qui
+\f1\i0 ) ou des\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN81"}}{\fldrslt 
+\f0\b \cf12 d\'e9terminants}}\'a0(
+\f2\i ses, mon, le/la/les, ce
+\f1\i0 ) et d'un autre c\'f4t\'e9 les reprises constitu\'e9es par un\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN9e"}}{\fldrslt 
+\f0\b \cf12 groupe nominal}}\'a0(
+\f2\i ce stratag\'e8me
+\f1\i0 ,\'a0
+\f2\i l'archipel
+\f1\i0 ).\cb1 \
+\cb11 Par ailleurs il est important de noter que les \'e9l\'e9ments qui sont repris peuvent \'e9galement \'eatre de nature tr\'e8s diff\'e9rente : il peut s'agir d'un nom, d'un groupe nominal, d'un groupe verbal, d'une phrase ou m\'eame de plusieurs phrases. Traditionnellement, on appelle l'\'e9l\'e9ment repris
+\f0\b \'a0l'{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesNc7"}}{\fldrslt \cf12 ant\'e9c\'e9dent}}.
+\f1\b0 \cb1 \
+\pard\pardeftab720\li300\fi-300\partightenfactor0
+
+\f0\b\fs34\fsmilli17280 \cf10 \cb2 Les reprises pronominales\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 Dans cette cat\'e9gorie on peut trouver :\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \uc0\u8594 
+\f0  Des\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN5e"}}{\fldrslt \cf12 pronoms}}
+\f1\b0 \'a0:\'a0
+\f2\i il(s), elle(s), le, la, en, \'e7a, cela, celui-ci/celle-ci/ceux-ci/celles-ci, le n\'f4tre, les leurs
+\f1\i0 \'a0mais aussi les pronoms\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN118"}}{\fldrslt 
+\f0\b \cf12 relatifs}}\'a0tels que\'a0
+\f2\i qui, que, quoi, dont, o\'f9
+\f1\i0 \'a0(objet d'un autre module mais que nous pourrons rencontrer ici ou l\'e0 dans celui-ci). Reprenons\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls19\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+L'op\'e9ration\'a0
+\f0\b lui
+\f1\b0 \'a0a co\'fbt\'e9 10000 euros.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans cet exemple, lui reprend\'a0
+\f2\i Lin Rong
+\f1\i0 .\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \uc0\u8594 
+\f0  Des groupes constitu\'e9s d'un\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN81"}}{\fldrslt \cf12 d\'e9terminant}}\'a0et d'un\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN16d"}}{\fldrslt \cf12 adjectif}}
+\f1\b0 \'a0et qui fonctionnent comme pronoms (groupes pronominaux) :\'a0
+\f2\i ce dernier, celui de (celles de), l'un, l'autre, la premi\'e8re, la seconde.
+\f1\i0 \cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf10 \cb2 Remarque\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf10 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb11 Les\'a0{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897033/mod_resource/content/1/co/MODULE_A-IDENTIFICATION_DES_REPRISES_6.html#footnotesN18c"}}{\fldrslt 
+\f0\b \cf12 d\'e9terminants possessifs}}\'a0
+\f2\i son, sa, ses, leurs
+\f1\i0 , etc. sont aussi capables de reprendre un mot, celui qui d\'e9signe ce qu'on appelle un peu abusivement le \'ab possesseur \'bb. Par exemple :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls20\ilvl0\cf10 \cb11 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+On dit de lui qu'il est le Tolkien am\'e9ricain. Mais George R. R. Martin se verrait plut\'f4t en Maurice Druon des temps modernes. Car c'est bien aux\'a0
+\f2\i Rois Maudits
+\f1\i0 , que l'\'e9crivain doit\'a0
+\f0\b sa
+\f1\b0 \'a0saga. (
+\f2\i Les \'c9chos
+\f1\i0 , juillet 2017)\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb11 Le d\'e9terminant possessif\'a0
+\f2\i sa
+\f1\i0 \'a0dans\'a0
+\f2\i sa saga
+\f1\i0 \'a0reprend\'a0
+\f2\i l'\'e9crivain
+\f1\i0 \'a0ou\'a0
+\f2\i George R. R. Martin
+\f1\i0 , et peut \'eatre paraphras\'e9 par \'ab la saga de l'\'e9crivain \'bb ou \'ab la saga de George R. R. Martin\'a0\'bb.\cb1 \
+\pard\pardeftab720\li300\fi-300\partightenfactor0
+
+\f0\b\fs34\fsmilli17280 \cf10 \cb2 Les reprises nominales\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 On a vu dans l'exercice \'ab Savez-vous reconna\'eetre les reprises\'a0? \'bb que les \'e9l\'e9ments de reprise pouvaient \'eatre des groupes nominaux\'a0:\'a0
+\f2\i ce stratag\'e8me, l'op\'e9ration, l'archipel, la police, la jeune femme
+\f1\i0 . Ces reprises dites nominales peuvent \'eatre class\'e9es selon la relation qu'elles entretiennent avec ce qu'elles reprennent.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f4\b \cf0 \cb2 \uc0\u8594 
+\f0  Reprendre avec le m\'eame nom
+\f1\b0 \cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans l'exemple suivant :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls21\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Il y avait une fois\'a0
+\f0\b un marchand
+\f1\b0 \'a0qui \'e9tait extr\'eamement riche. Il avait six enfants, trois gar\'e7ons et trois filles, et comme\'a0
+\f0\b ce marchand
+\f1\b0 \'a0\'e9tait un homme d'esprit, il n'\'e9pargna rien pour l'\'e9ducation de ses enfants. (Madame Leprince de Beaumont)\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 Ce marchand
+\f1\i0 \'a0reprend\'a0
+\f2\i un marchand
+\f1\i0 \'a0: seul le d\'e9terminant change. On appelle cette reprise une\'a0
+\f0\b \'ab reprise fid\'e8le \'bb.
+\f1\b0 \cb1 \
+
+\f4\b \cb2 \uc0\u8594 
+\f0  Reprendre avec un nom diff\'e9rent
+\f1\b0 \cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls22\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Un petit avion se pr\'e9pare \'e0 atterrir sur Gr\'edmsey, l'\'eele la plus septentrionale du territoire islandais.\'a0
+\f0\b Cette langue de terre
+\f1\b0 \'a0situ\'e9e \'e0 40 kilom\'e8tres au nord de l'\'eele principale enjambe le cercle arctique. (
+\f2\i Courrier international
+\f1\i0 , 20-26 juillet 2017)\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 Cette langue de terre
+\f1\i0 \'a0reprend\'a0
+\f2\i Elle
+\f1\i0 \'a0qui reprend\'a0
+\f2\i Grimsey
+\f1\i0 . Cette reprise est bien diff\'e9rente de la premi\'e8re occurrence.\cb1 \
+
+\f4\b \cb2 \uc0\u8594 
+\f0  Reprendre un contenu textuel
+\f1\b0 \cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans l'extrait de notre texte de d\'e9part\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls23\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Une Chinoise est parvenue \'e0 passer ill\'e9galement la fronti\'e8re japonaise en intervertissant les empreintes digitales de ses index et de ses pouces par voie chirurgicale, a annonc\'e9 hier la police de Tokyo. Lin Rong, 27 ans, qui avait \'e9t\'e9 auparavant expuls\'e9e, et donc fich\'e9e, pour \'eatre rest\'e9e au-del\'e0 de l'expiration de son visa, s'est servie de\'a0
+\f0\b ce stratag\'e8me
+\f1\b0 \'a0pour revenir travailler dans l'archipel.
+\f0\b \'a0L'op\'e9ration
+\f1\b0 \'a0lui a co\'fbt\'e9 10 000 euros, selon la police,\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f2\i \cf0 \cb2 Ce stratag\'e8me
+\f1\i0 \'a0reprend le contenu de ce qui pr\'e9c\'e8de. On a vu que ce contenu d'abord pr\'e9sent\'e9 comme un \'ab stratag\'e8me \'bb est ensuite d\'e9sign\'e9 de fa\'e7on neutre comme une \'ab op\'e9ration \'bb.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 Ces reprises r\'e9sument un contenu pr\'e9c\'e9demment \'e9nonc\'e9. On peut ainsi reprendre une phrase, une portion de phrase, un paragraphe.
+\f1\b0 \cb1 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 Fiche\'a0: Rep\'e9rer les reprises pour saisir la coh\'e9rence du texte\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 S'il est important de bien rep\'e9rer les reprises dans un texte c'est qu'elles permettent d'en comprendre la coh\'e9rence, les grandes articulations et sa vis\'e9e. Un texte acquiert en\'a0
+\f0\b coh\'e9rence
+\f1\b0 \'a0si\'a0:\cb1 \
+
+\f0\b \cb2 1. Il assure une certaine continuit\'e9 th\'e9matique\'a0
+\f1\b0 : en reprenant un \'e9l\'e9ment, les reprises servent alors soit \'e0 parler en continuit\'e9 du th\'e8me, soit \'e0 introduire un nouveau th\'e8me.\cb1 \
+\cb2 Dans cette phrase, le pronom\'a0
+\f2\i elle
+\f1\i0 \'a0reprend\'a0
+\f2\i la poussi\'e8re
+\f1\i0 \'a0et en fait le nouveau th\'e8me du texte\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls24\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Restaur\'e9e en 2006, la galerie du Mus\'e9e de l'Orangerie souffre de la poussi\'e8re.\'a0
+\f0\b Elle
+\f1\b0 \'a0crisse sur les marches qui m\'e8nent aux Renoir, Picasso et Soutine de la collection Walter-Guillaume.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans cette suite de phrases, les reprises de l'\'e9cureuil permettent de parler du th\'e8me du texte (l'\'e9cureuil) de mani\'e8re constante, pour montrer son r\'f4le dans l'\'e9cosyst\'e8me des for\'eats\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls25\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+L'\'e9cureuil appartient \'e0 la famille des rongeurs.\'a0
+\f0\b Ce petit mammif\'e8re
+\f1\b0 \'a0survit en hiver en consommant des noix ou des graines enfouies \'e0 l'automne.\'a0
+\f0\b Il
+\f1\b0 \'a0ne les retrouve pas toutes, mais\'a0
+\f0\b il
+\f1\b0 \'a0participe ainsi \'e0 la dispersion des graines dans les for\'eats.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 2.
+\f1\b0 \'a0
+\f0\b Il fait progresser l'information
+\f1\b0 \'a0: en reprenant un \'e9l\'e9ment tout en le modifiant, la reprise permet de donner plusieurs facettes du th\'e8me.\cb1 \
+\cb2 Dans les phrases suivantes, les reprises\'a0
+\f2\i ce stratag\'e8me
+\f1\i0 \'a0et\'a0
+\f2\i ce d\'e9nuement
+\f1\i0 \'a0permettent d'introduire facilement le point de vue du journaliste\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls26\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Une Chinoise est parvenue \'e0 passer ill\'e9galement la fronti\'e8re japonaise en intervertissant les empreintes digitales de ses index et de ses pouces par voie chirurgicale, a annonc\'e9 hier la police de Tokyo. Lin Rong, 27 ans, qui avait \'e9t\'e9 auparavant expuls\'e9e, et donc fich\'e9e, pour \'eatre rest\'e9e au-del\'e0 de l'expiration de son visa, s'est servie de\'a0
+\f0\b ce stratag\'e8me
+\f1\b0 \'a0pour revenir travailler dans l'archipel.\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls27\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Un gosse me d\'e9visage, v\'eatu d'un tricot trou\'e9, d'un short Adidas trop grand pour ses jambes maigres, et de chaussures de tennis \'e0 la semelle b\'e2illante.\'a0
+\f0\b Ce d\'e9nuement
+\f1\b0 \'a0m'\'e9tonne. (Yves Paccalet,\'a0
+\f2\i Le Kamtchatka, la terre des origines
+\f1\i0 , 2002)\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 3. Il r\'e9capitule r\'e9guli\'e8rement pour assurer des transitions
+\f1\b0 \cb1 \
+\cb2 Dans le texte suivant, extrait d'un article du\'a0
+\f2\i Monde Diplomatique
+\f1\i0 \'a0sur l'Autriche, publi\'e9 en 2000, le groupe nominal\'a0
+\f2\i ce blocage
+\f1\i0 , situ\'e9 au d\'e9but du 2\'e8me paragraphe, r\'e9sume le paragraphe pr\'e9c\'e9dent et participe \'e0 la progression du propos\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls28\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Nombre d'observateurs voient dans le succ\'e8s du FP\'d6 l'expression d'un vote protestataire contre un \'ab syst\'e8me \'bb bloqu\'e9. De fait, les sociaux-d\'e9mocrates [...] et les chr\'e9tiens-sociaux de l'\'d6VP se sont, depuis le d\'e9but des ann\'e9es 50, partag\'e9 les postes de responsabilit\'e9 politiques, administratifs et \'e9conomiques, dans le cadre d'un dispositif, non reconnu officiellement mais effectif, le Proporz. Les gouvernements sociaux-d\'e9mocrates au pouvoir de 1970 \'e0 1983 n'ont pas modifi\'e9 ce mode de fonctionnement. La gestion des antagonismes sociaux, la Sozialpartnerschaft, qui a pour fonction d'administrer paritairement tous les aspects de la vie sociale, a conduit \'e0 l'immobilisme. Ainsi les syndicats n\'e9gocient-ils avec les organismes patronaux sans faire appel \'e0 l'engagement individuel de leurs adh\'e9rents.\cf0 \cb1 \uc0\u8232 
+\f0\b \cf10 \cb2 Ce blocage
+\f1\b0 \'a0est particuli\'e8rement sensible depuis 1986. [...]\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 4. Il est construit sur des r\'e9seaux lexicaux coh\'e9rents
+\f1\b0 \cb1 \
+\cb2 Les reprises contribuent \'e0 b\'e2tir des r\'e9seaux lexicaux coh\'e9rents qui donnent des informations sur la\'a0
+\f0\b vis\'e9e
+\f1\b0 \'a0du texte. Dans cet extrait d'une fable de La Fontaine,\'a0
+\f2\i un lion
+\f1\i0 \'a0et sa reprise\'a0
+\f2\i le roi des animaux
+\f1\i0 \'a0construit, avec\'a0
+\f2\i montra ce qu'il \'e9tait et lui donna vie
+\f1\i0 , un r\'e9seau lexical de \'ab\'a0grandeur morale\'a0\'bb et de \'ab\'a0majest\'e9\'a0\'bb\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls29\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Entre les pattes d'
+\f0\b un lion
+\f1\b0 \cf0 \cb1 \uc0\u8232 \cf10 \cb2 Un rat sortit de terre assez \'e0 l'\'e9tourdie.\cf0 \cb1 \uc0\u8232 
+\f0\b \cf10 \cb2 Le roi des animaux
+\f1\b0 , en cette occasion,\cf0 \cb1 \uc0\u8232 \cf10 \cb2 Montra ce qu'il \'e9tait, et lui donna vie.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans l'extrait suivant,\'a0
+\f2\i un SDF
+\f1\i0 \'a0est d'abord repris deux fois par\'a0
+\f2\i il
+\f1\i0 , puis par\'a0
+\f2\i l'homme,
+\f1\i0 \'a0terme g\'e9n\'e9ral qui maintient l'anonymat de la personne dont il est parl\'e9.\'a0
+\f0\b On voit alors que la vis\'e9e du texte est moins de donner des informations sur l'identit\'e9 de la personne que sur ses actes et ses cons\'e9quences.
+\f1\b0 \cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls30\ilvl0\cf10 \cb2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+En pleine nuit, \'e0 3h du matin,
+\f0\b \'a0un SDF
+\f1\b0 \'a0a \'e9t\'e9 interpell\'e9 par une patrouille de police alors qu'
+\f0\b il
+\f1\b0 \'a0d\'e9ambulait dans le quartier de la Verri\'e8re \'e0 Beauval en poussant un chariot de supermarch\'e9.\'a0
+\f0\b Il
+\f1\b0 \'a0venait de charger dans celui-ci des rondins pris autour des arbres du quartier.\'a0
+\f0\b Il
+\f1\b0 \'a0avait l'intention d'utiliser ces derniers pour installer une b\'e2che afin de s'am\'e9nager un abri dans un terrain vague.\'a0
+\f0\b L'homme
+\f1\b0 , \'e2g\'e9 de 40 ans, a \'e9t\'e9 plac\'e9 en garde \'e0 vue, puis remis en libert\'e9 avec une convocation en justice. (presse)\cb1 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 Conclusion\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Au cours de ce module vous avez appris ce qu'est une reprise et \'e0 quoi elle peut servir.\cb1 \
+\cb2 Vous avez vu que les reprises peuvent \'eatre de diff\'e9rents types, notamment des pronoms (ou groupes pronominaux) et des groupes nominaux. Vous avez \'e9galement vu qu'elles sont indispensables \'e0 la coh\'e9sion du texte, et \'e0 sa progression. En effet, tout texte doit \'e0 la fois se \'ab r\'e9p\'e9ter \'bb pour que l'on sache de quoi on parle (et ne pas passer du coq \'e0 l'\'e2ne) mais aussi \'ab avancer \'bb (pour \'e9viter de faire du sur place).\cb1 \
+\cb2 D\'e9sormais, vous pouvez vous relire en vous focalisant sur les reprises que vous utilisez, avec \'e0 l'esprit les exigences de\'a0
+\f0\b coh\'e9sion
+\f1\b0 \'a0et de\'a0
+\f0\b progression
+\f1\b0 .\cb1 \
+\
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 \outl0\strokewidth0 \strokec3 Introduction\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Bien r\'e9diger, c'est construire un texte \'ab qui se tient \'bb, et par cons\'e9quent savoir manier les reprises. Vous avez vu dans les autres modules que les reprises jouaient un r\'f4le essentiel dans la compr\'e9hension d'un texte, vous avez pass\'e9 en revue les diff\'e9rents types de reprises et vous avez pu prendre conscience de quelques probl\'e8mes pos\'e9s par leur emploi.\cb1 \
+\cb2 Dans ce module, nous allons nous focaliser sur les fonctions que les reprises jouent dans un texte. En fait, les reprises ne servent pas d'abord \'e0 \'ab \'e9viter les r\'e9p\'e9titions \'bb, comme vous l'avez peut-\'eatre appris en classe\'a0: nous allons voir comment, selon les cas, elles permettent de parler d'un m\'eame th\'e8me, sans le modifier, comment elles permettent de passer d'un th\'e8me \'e0 un autre, de l'envisager sous un autre point de vue, d'argumenter...\cb1 \
+\cb2 Ainsi, si vous avez en t\'eate \'e0 quoi servent les reprises dans un texte, vous pourrez mieux les utiliser\'a0!\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+
+\f0\b\fs46 \cf0 \cb2 \strokec3 \'c0 quoi servent les reprises\'a0?\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Dans les extraits suivants, les reprises remplissent des fonctions diff\'e9rentes. Vous allez les identifier.\cb1 \
+\pard\pardeftab720\sa336\partightenfactor0
+
+\f0\b\fs33\fsmilli16848 \cf0 \cb2 \strokec3 Question\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Lisez le texte suivant\'a0:\cb1 \
+\cb2 L'\'e9cureuil appartient \'e0 la famille des rongeurs. Il survit en hiver en consommant des noix ou des graines enfouies \'e0 l'automne. Il ne les retrouve pas toutes, mais il participe ainsi \'e0 la dispersion des graines dans les for\'eats.\cb1 \
+\cb2 Quel est le r\'f4le jou\'e9 par les reprises dans la construction du texte\'a0?\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Indice}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 Identifiez l'ant\'e9c\'e9dent et ses reprises, et examinez leurs relations.\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Solution}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 L'ant\'e9c\'e9dent est\'a0
+\f2\i \cb2 \strokec3 l'\'e9cureuil
+\f1\i0 \cb2 \strokec3 , repris par les pronoms\'a0
+\f2\i \cb2 \strokec3 il
+\f1\i0 \cb2 \strokec3 \'a0(trois formes). Les reprises ne modifient pas le th\'e8me.\cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf8 \cb2 \strokec8 Fondamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb9 \strokec3 La reprise par le pronom, surtout quand il est sujet\'a0
+\f2\i il(s)/elle(s)
+\f1\i0 , permet de\'a0
+\f0\b continuer \'e0 parler d'un m\'eame th\'e8me
+\f1\b0 \'a0et ne modifie pas la fa\'e7on de parler de ce th\'e8me. Il y a donc une certaine continuit\'e9 dans le discours.\cb1 \strokec3 \
+\pard\pardeftab720\sa336\partightenfactor0
+
+\f0\b\fs33\fsmilli16848 \cf0 \cb2 \strokec3 Question\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Lisez l'extrait suivant\'a0:\cb1 \
+\cb2 La cr\'e9ation du minist\'e8re de l'immigration, de l'int\'e9gration et de l'identit\'e9 nationale, en 2007, a fait franchir \'e0 la France un seuil symbolique dans la transformation de sa culture politique. Ce monstre administratif puise cependant ses racines dans une histoire plus que s\'e9culaire. (p\'e9tition)\cb1 \
+\cb2 Quel est le r\'f4le jou\'e9 par la reprise dans l'argumentation sous-jacente du texte\'a0?\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Indice}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 Comment est repris\'a0
+\f2\i \cb2 \strokec3 le minist\'e8re de l'immigration, de l'int\'e9gration et de l'identit\'e9 nationale
+\f1\i0 \cb2 \strokec3 \'a0?\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Solution}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 La reprise par\'a0
+\f2\i \cb2 \strokec3 ce monstre administratif
+\f1\i0 \cb2 \strokec3 \'a0de l'ant\'e9c\'e9dent\'a0
+\f2\i \cb2 \strokec3 le minist\'e8re de l'immigration, de l'int\'e9gration et de l'identit\'e9 nationale
+\f1\i0 \cb2 \strokec3 \'a0marque un point de vue n\'e9gatif sur le minist\'e8re, elle introduit un jugement de valeur sur cette entit\'e9 et participe \'e0 l'argumentation du texte.\cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf8 \cb2 \strokec8 Fondamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb9 \strokec3 Les reprises permettent de modifier la fa\'e7on de d\'e9signer le th\'e8me et donc la repr\'e9sentation que l'on en donne. Elles participent \'e0 l'argumentation d'un texte.\cb1 \strokec3 \
+\pard\pardeftab720\sa336\partightenfactor0
+
+\f0\b\fs33\fsmilli16848 \cf0 \cb2 \strokec3 Question\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 Lisez le texte suivant\'a0:\cb1 \
+\cb2 Si la foule ne vient pas aux chefs-d'\'9cuvre litt\'e9raires c'est que ces chefs-d'\'9cuvre sont litt\'e9raires (...). Loin d'accuser la foule et le public, nous devons accuser l'\'e9cran formel que nous interposons entre nous et la foule, et cette forme d'idol\'e2trie nouvelle, cette idol\'e2trie des chefs-d'\'9cuvre fix\'e9s qui est un des aspects du conformisme bourgeois.\cb1 \
+\cb2 Ce conformisme qui nous fait confondre le sublime, les id\'e9es, les choses avec les formes qu'elles ont prises avec le temps et en nous-m\'eames (..). (Antonin Artaud,\'a0
+\f2\i \cb2 \strokec3 Le Th\'e9\'e2tre et son double
+\f1\i0 \cb2 \strokec3 , 1933).\cb1 \
+\cb2 Quel est le r\'f4le jou\'e9 par la reprise dans la structure du texte\'a0?\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Indice}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 Identifiez la reprise au saut de paragraphe.\cb1 \
+\pard\pardeftab720\sa382\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://lms.univ-cotedazur.fr/2025/pluginfile.php/897038/mod_resource/content/1/co/module_C-USAGE_DES_REPRISES__3.html#"}}{\fldrslt 
+\f0\b \cf4 \cb2 \strokec4 Solution}}
+\f0\b \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0 \cf0 \cb2 \strokec3 La reprise \'e0 l'identique (
+\f2\i \cb2 \strokec3 le conformisme bourgeois
+\f1\i0 \cb2 \strokec3 \'a0repris par\'a0
+\f2\i \cb2 \strokec3 ce conformisme
+\f1\i0 \cb2 \strokec3 , avec la seule modification du d\'e9terminant) se situe au d\'e9but d'un nouveau paragraphe.\cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf8 \cb2 \strokec8 Fondamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb9 \strokec3 Les reprises accompagnent souvent la transition d'un paragraphe \'e0 un autre et participent \'e0 la structuration du texte.\cb1 \strokec3 \
+\pard\pardeftab720\sa382\partightenfactor0
+
+\f0\b\fs46 \cf0 \cb2 \strokec3 Fiche\'a0: Les fonctions des reprises\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb2 \strokec3 S'il est important de bien rep\'e9rer les reprises dans un texte c'est qu'elles permettent d'en comprendre la coh\'e9rence et les grandes articulations.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 1. Les reprises servent \'e0 parler en continuit\'e9 du th\'e8me
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Lorsqu'un th\'e8me est repris par les pronoms\'a0
+\f2\i \cb2 \strokec3 il(s)/elle(s)
+\f1\i0 \cb2 \strokec3 , cela ne modifie pas la mani\'e8re de parler de ce th\'e8me, de m\'eame lorsque l'on effectue une reprise avec le m\'eame terme, en modifiant uniquement le d\'e9terminant\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls31\ilvl0
+\f0\b \cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Un homme
+\f1\b0 \'a0suivait seul la grande route de Marchiennes \'e0 Montsou, dix kilom\'e8tres de pav\'e9 coupant tout droit, \'e0 travers les champs de betteraves. (...)\'a0
+\f0\b L'homme
+\f1\b0 \'a0\'e9tait parti de Marchiennes vers deux heures. (d\'e9but de\'a0
+\f2\i Germinal
+\f1\i0 )\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Dans ce d\'e9but de roman, Zola se contente de maintenir la m\'eame vision ext\'e9rieure et non sp\'e9cifi\'e9e de l'inconnu qui marche dans la plaine. C'est bien du m\'eame individu qu'il parle, d'o\'f9 l'emploi de l'article d\'e9fini\'a0
+\f2\i \cb2 \strokec3 le
+\f1\i0 \cb2 \strokec3 \'a0(\'e9lid\'e9\'a0
+\f2\i \cb2 \strokec3 l'
+\f1\i0 \cb2 \strokec3 ) apr\'e8s l'article ind\'e9fini (
+\f2\i \cb2 \strokec3 un
+\f1\i0 \cb2 \strokec3 ), mais rien n'est pr\'e9cis\'e9 entre
+\f2\i \cb2 \strokec3 \'a0un homme
+\f1\i0 \cb2 \strokec3 \'a0et\'a0
+\f2\i \cb2 \strokec3 l'homme
+\f1\i0 \cb2 \strokec3 .\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 2. Les reprises servent aussi \'e0
+\f1\b0 \cb2 \strokec3 \'a0
+\f0\b \cb2 \strokec3 introduire un th\'e8me
+\f1\b0 \cb2 \strokec3 \'a0: en reprenant un \'e9l\'e9ment, elles en font le nouveau th\'e8me du texte. Elles permettent donc de changer de th\'e8me.\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls32\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Restaur\'e9e en 2006, la galerie du Mus\'e9e de l'Orangerie souffre de\'a0
+\f0\b la poussi\'e8re
+\f1\b0 .\'a0
+\f0\b Elle
+\f1\b0 \'a0crisse sur les marches qui m\'e8nent aux Renoir, Picasso et Soutine de la collection Walter-Guillaume.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Dans cette phrase, le pronom\'a0
+\f2\i \cb2 \strokec3 elle
+\f1\i0 \cb2 \strokec3 \'a0est une reprise du groupe nominal\'a0
+\f2\i \cb2 \strokec3 la poussi\'e8re
+\f1\i0 \cb2 \strokec3 . La reprise par le pronom ne modifie pas la fa\'e7on de voir \'ab la poussi\'e8re \'bb. En revanche on voit que cette reprise permet de passer d'une phrase o\'f9 l'on parle de la galerie du Mus\'e9e de l'Orangerie \'e0 une phrase o\'f9 l'on parle de la poussi\'e8re, qui est de fait le th\'e8me dont traite le reste du texte.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 3.\'a0Les reprises permettent d'introduire un point de\'a0vue, ou de le modifier
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Lorsqu'on effectue une reprise en modifiant le terme repris et en le reprenant avec un autre mot,\'a0
+\f0\b \cb2 \strokec3 ce changement a une influence sur la mani\'e8re dont on envisage ce dont on parle
+\f1\b0 \cb2 \strokec3 . Cette influence peut \'eatre minime ou plus importante :\cb1 \
+\cb2 - minime, quand on se contente de reprendre par un mot de sens plus g\'e9n\'e9ral (un hyperonyme) : par exemple quand on reprend\'a0
+\f2\i \cb2 \strokec3 l'h\'e9licopt\'e8re
+\f1\i0 \cb2 \strokec3 \'a0par
+\f2\i \cb2 \strokec3 \'a0l'engin
+\f1\i0 \cb2 \strokec3 , ou\'a0
+\f2\i \cb2 \strokec3 l'\'e9l\'e9phant
+\f1\i0 \cb2 \strokec3 \'a0par\'a0
+\f2\i \cb2 \strokec3 le pachyderme
+\f1\i0 \cb2 \strokec3 \'a0;\cb1 \
+\cb2 - plus ou moins importante, quand on reprend sur la base d'une autre relation que la relation entre les mots du lexique : par exemple quand on reprend\'a0
+\f2\i \cb2 \strokec3 la colombe
+\f1\i0 \cb2 \strokec3 par\'a0
+\f2\i \cb2 \strokec3 ce symbole de la paix
+\f1\i0 \cb2 \strokec3 .\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls33\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Un gosse me d\'e9visage,\'a0
+\f0\b v\'eatu d'un tricot trou\'e9, d'un short Adidas trop grand pour ses jambes maigres, et de chaussures de tennis \'e0 la semelle b\'e2illante.
+\f1\b0 \'a0
+\f0\b Ce d\'e9nuement
+\f1\b0 \'a0m'\'e9tonne. (Yves Paccalet,\'a0
+\f2\i Le Kamtchatka, la terre des origines
+\f1\i0 , 2002)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Dans cette phrase, le groupe nominal\'a0
+\f2\i \cb2 \strokec3 ce d\'e9nuement
+\f1\i0 \cb2 \strokec3 \'a0reprend une partie du contenu de la phrase pr\'e9c\'e9dente. Cette reprise indique aussi\'a0
+\f0\b \cb2 \strokec3 le point de vue de l'auteur
+\f1\b0 \cb2 \strokec3 \'a0du r\'e9cit de voyage sur l'\'e9tat du jeune gar\'e7on qu'il rencontre et introduit une r\'e9flexion sur la pauvret\'e9 de la population de la p\'e9ninsule sib\'e9rienne.\cb1 \
+\cb2 La reprise avec changement inscrit souvent un point de vue dans le texte. Elle peut aussi le modifier sensiblement, comme dans ce passage de\'a0
+\f2\i \cb2 \strokec3 Peau d'\'c2ne
+\f1\i0 \cb2 \strokec3 \'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls34\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Cependant\'a0
+\f0\b l'infante
+\f1\b0 \'a0entra dans une belle ville, \'e0 la porte de laquelle \'e9tait une m\'e9tairie dont la fermi\'e8re avait besoin d'une souillon pour laver les torchons, nettoyer les dindons et l'auge des cochons. Cette femme, voyant\'a0
+\f0\b cette voyageuse si malpropre
+\f1\b0 , lui proposa d'entrer chez elle ; ce que l'Infante accepta de grand c\'9cur, tant elle \'e9tait lasse d'avoir tant march\'e9. (
+\f2\i Peau d'\'c2ne
+\f1\i0 , version en prose)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Le groupe\'a0
+\f2\i \cb2 \strokec3 cette voyageuse si malpropre
+\f1\i0 \cb2 \strokec3 \'a0reprend\'a0
+\f2\i \cb2 \strokec3 l'infante
+\f1\i0 \cb2 \strokec3 \'a0mais en indiquant le point de vue de la fermi\'e8re (
+\f2\i \cb2 \strokec3 cette femme
+\f1\i0 \cb2 \strokec3 ) sur l'infante : elle ne voit qu'une jeune femme mal fagot\'e9e, peu soign\'e9e dans sa mise, et pas une princesse !\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 4. Les reprises ont une valeur argumentative et participent \'e0 la vis\'e9e du texte
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Les reprises peuvent \'eatre porteuses de pr\'e9suppos\'e9s et de connotations, qui sont susceptibles de leur donner cette valeur argumentative, comme dans cet exemple o\'f9\'a0
+\f2\i \cb2 \strokec3 un loup
+\f1\i0 \cb2 \strokec3 \'a0est repris par\'a0
+\f2\i \cb2 \strokec3 l'hypocrite
+\f1\i0 \cb2 \strokec3 \'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls35\ilvl0
+\f0\b \cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Un loup
+\f1\b0 \'a0[...]\cf0 \cb1 \uc0\u8232 \cf4 \cb2 Crut qu'
+\f0\b il
+\f1\b0 \'a0fallait s'aider de la peau du renard\cf0 \cb1 \uc0\u8232 \cf4 \cb2 Et faire un nouveau personnage.\cf0 \cb1 \uc0\u8232 
+\f0\b \cf4 \cb2 Il
+\f1\b0 \'a0s'habille en berger [...]\cf0 \cb1 \uc0\u8232 \cf4 \cb2 La plupart des brebis dormaient pareillement.\cf0 \cb1 \uc0\u8232 
+\f0\b \cf4 \cb2 L'hypocrite
+\f1\b0 \'a0les laissa faire. (
+\f2\i Fables
+\f1\i0 \'a0III, 3)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Dans cet autre exemple\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls36\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 En pleine nuit, \'e0 3h du matin,\'a0
+\f0\b un SDF
+\f1\b0 \'a0a \'e9t\'e9 interpell\'e9 par une patrouille de police alors qu'il d\'e9ambulait dans le quartier de la Verri\'e8re \'e0 Beauval en poussant un chariot de supermarch\'e9.\'a0
+\f0\b Il
+\f1\b0 \'a0venait de charger dans celui-ci des rondins pris autour des arbres du quartier.\'a0
+\f0\b Il
+\f1\b0 \'a0avait l'intention d'utiliser ces derniers pour installer une b\'e2che afin de s'am\'e9nager un abri dans un terrain vague.
+\f0\b \'a0L'homme
+\f1\b0 , \'e2g\'e9 de 40 ans, a \'e9t\'e9 plac\'e9 en garde \'e0 vue, puis remis en libert\'e9 avec une convocation en justice. (presse)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Le th\'e8me\'a0
+\f2\i \cb2 \strokec3 un SDF
+\f1\i0 \cb2 \strokec3 \'a0est d'abord repris par les deux occurrences du pronom\'a0
+\f2\i \cb2 \strokec3 il
+\f1\i0 \cb2 \strokec3 , le th\'e8me est donc maintenu tel quel, puis par\'a0
+\f2\i \cb2 \strokec3 l'homme,
+\f1\i0 \cb2 \strokec3 \'a0terme g\'e9n\'e9ral qui maintient l'anonymat de la personne dont il est parl\'e9. On voit alors que\'a0
+\f0\b \cb2 \strokec3 la vis\'e9e du texte est moins de donner des informations sur l'identit\'e9 de la personne que sur ses actes et ses cons\'e9quences
+\f1\b0 \cb2 \strokec3 .\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f0\b \cf0 \cb2 \strokec3 5. Les reprises permettent de r\'e9sumer une partie d'un texte\'a0et de le structurer
+\f1\b0 \cb1 \strokec3 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 Dans les exemples suivants :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls37\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Une Chinoise est parvenue \'e0 passer ill\'e9galement la fronti\'e8re japonaise
+\f0\b \'a0en intervertissant les empreintes digitales de ses index et de ses pouces par voie chirurgicale
+\f1\b0 , a annonc\'e9 hier la police de Tokyo. Lin Rong, 27 ans, qui avait \'e9t\'e9 auparavant expuls\'e9e, et donc fich\'e9e, pour \'eatre rest\'e9e au-del\'e0 de l'expiration de son visa, s'est servie de\'a0
+\f0\b ce stratag\'e8me
+\f1\b0 \'a0pour revenir travailler dans l'archipel. L'op\'e9ration lui a co\'fbt\'e9 10 000 euros, selon la police, qui n'a toutefois pas expliqu\'e9 si la jeune femme avait utilis\'e9 aussi des faux papiers. (presse)\cb1 \strokec4 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls38\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Le dollar\'a0
+\f0\b est pass\'e9 de plus de 10 francs \'e0 moins de 7 francs
+\f1\b0 .\'a0
+\f0\b Cette baisse
+\f1\b0 \'a0pr\'e9occupe les milieux boursiers am\'e9ricains.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 Dans le premier exemple, le groupe nominal\'a0
+\f2\i \cb2 \strokec3 ce stratag\'e8me
+\f1\i0 \cb2 \strokec3 \'a0reprend une partie du contenu de la phrase pr\'e9c\'e9dente (
+\f2\i \cb2 \strokec3 en intervertissant les empreintes digitales...
+\f1\i0 \cb2 \strokec3 ) tout en le r\'e9sumant. Cette reprise indique \'e9galement le point de vue du journaliste sur le proc\'e9d\'e9 employ\'e9 par la jeune Chinoise, pour en souligner le caract\'e8re astucieux et rus\'e9, mais aussi artificieux. Dans le second exemple, le groupe nominal\'a0
+\f2\i \cb2 \strokec3 cette baisse
+\f1\i0 \cb2 \strokec3 \'a0reprend la phrase pr\'e9c\'e9dente, par une implication. Ces deux groupes nominaux \'ab r\'e9sumants \'bb pourraient \'eatre le point de d\'e9part d'un nouveau d\'e9veloppement.\cb1 \
+\cb2 Les reprises se situent souvent strat\'e9giquement\'a0
+\f0\b \cb2 \strokec3 au d\'e9but ou \'e0 la fin d'un paragraphe
+\f1\b0 \cb2 \strokec3 . Elles permettent alors de g\'e9rer des transitions, de faire progresser le texte.\cb1 \
+\cb2 Dans le texte suivant, extrait d'un article du\'a0
+\f2\i \cb2 \strokec3 Monde Diplomatique
+\f1\i0 \cb2 \strokec3 \'a0sur l'Autriche, publi\'e9 en 2000, le groupe nominal\'a0
+\f2\i \cb2 \strokec3 ce blocage
+\f1\i0 \cb2 \strokec3 , situ\'e9 au d\'e9but du 2\'e8me paragraphe, r\'e9sume le paragraphe pr\'e9c\'e9dent et participe \'e0 la progression du propos\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls39\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Nombre d'observateurs voient dans le succ\'e8s du FP\'d6 l'expression d'un vote protestataire contre un \'ab syst\'e8me \'bb bloqu\'e9. De fait, les sociaux-d\'e9mocrates [...] et les chr\'e9tiens-sociaux de l'\'d6VP se sont, depuis le d\'e9but des ann\'e9es 50, partag\'e9 les postes de responsabilit\'e9 politiques, administratifs et \'e9conomiques, dans le cadre d'un dispositif, non reconnu officiellement mais effectif, le Proporz. Les gouvernements sociaux-d\'e9mocrates au pouvoir de 1970 \'e0 1983 n'ont pas modifi\'e9 ce mode de fonctionnement. La gestion des antagonismes sociaux, la Sozialpartnerschaft, qui a pour fonction d'administrer paritairement tous les aspects de la vie sociale, a conduit \'e0 l'immobilisme. Ainsi les syndicats n\'e9gocient-ils avec les organismes patronaux sans faire appel \'e0 l'engagement individuel de leurs adh\'e9rents.\cf0 \cb1 \uc0\u8232 
+\f0\b \cf4 \cb2 Ce blocage
+\f1\b0 \'a0est particuli\'e8rement sensible depuis 1986. [...]\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 \'c0 l'inverse, dans le texte suivant, la reprise\'a0
+\f2\i \cb2 \strokec3 l'avanc\'e9e
+\f1\i0 \cb2 \strokec3 \'a0se situe \'e0 la fin d'un paragraphe\'a0:\cb1 \
+\cb2 C'est ce qui se passe aussi dans :\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls40\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Au d\'e9but du XVIIIe si\'e8cle, John Law comprend \'e0 quel point l'argent joue un r\'f4le dans l'\'e9conomie et comment on peut le piloter. Il en prend encore mieux conscience \'e0 Amsterdam, o\'f9\'a0
+\f0\b la banque municipale \'e9met depuis 1609 du papier-monnaie dont la valeur est garantie par les terres agricoles
+\f1\b0 .\'a0
+\f0\b L'avanc\'e9e
+\f1\b0 \'a0est r\'e9volutionnaire, non seulement parce que l'on imprime du papier pour en faire une monnaie mais aussi parce que, ainsi, on peut augmenter et contr\'f4ler la quantit\'e9 d'argent en circulation. (Courrier international, 16-22 juin 2016)\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 La reprise
+\f2\i \cb2 \strokec3 \'a0l'avanc\'e9e
+\f1\i0 \cb2 \strokec3 \'a0permet de reformuler la phrase pr\'e9c\'e9dente et d'en qualifier le contenu comme une \'ab avanc\'e9e \'bb (imprimer du papier-monnaie est un progr\'e8s). En plus de r\'e9sumer, elle permet la transition avec le paragraphe suivant qui introduit et d\'e9veloppe l'id\'e9e mon\'e9taire de John Law\'a0: \'ab Mais John Law va encore plus loin. (...) \'bb.\cb1 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf4 \cb2 \strokec4 Compl\'e9ment\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \cb2 R\'e9sumer avec des mots abstraits\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb13 \strokec3 R\'e9sumer en reformulant par une reprise permet souvent de synth\'e9tiser sa pens\'e9e : associ\'e9es \'e0 des expressions telles que\'a0
+\f2\i au total, finalement, en fin de compte, pour conclure
+\f1\i0 \'a0etc., les reprises permettent d'introduire un d\'e9veloppement conclusif et de m\'e9nager une transition.\cb1 \strokec3 \
+\cb13 \strokec3 \'c0 votre disposition, vous avez des termes du lexique abstrait qui vous permettent d'effectuer des reprises synth\'e8ses.\cb1 \strokec3 \
+\pard\pardeftab720\qr\partightenfactor0
+
+\f3\i\b\fs34\fsmilli17280 \cf4 \cb2 \strokec4 Conseil\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\i0 \cf4 \cb2 Reprise et r\'e9p\'e9tition\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 \cb13 \strokec3 Tr\'e8s souvent, les reprises sont pr\'e9sent\'e9es comme r\'e9solvant un probl\'e8me de r\'e9p\'e9tition : gr\'e2ce \'e0 elles, on \'e9vite les redondances maladroites qui nuiraient \'e0 la progression de la pens\'e9e.\cb1 \strokec3 \
+\cb13 \strokec3 Toutefois, cette recommandation ne doit pas \'eatre prise au pied de la lettre, notamment dans les \'e9crits sp\'e9cialis\'e9s, comme certains articles de presse mais aussi les rapports de stage, les notes de synth\'e8se, les circulaires, etc. Il vaut mieux dans ce cas r\'e9p\'e9ter afin d'\'e9viter toute ambigu\'eft\'e9.\cb1 \strokec3 \
+\cb13 \strokec3 Dans l'exercice du r\'e9sum\'e9, la gestion des reprises est extr\'eamement importante \'e0 la fois pour donner une unit\'e9 et une coh\'e9rence mais aussi pour \'e9viter les ambigu\'eft\'e9s dues \'e0 la condensation des id\'e9es.\cb1 \strokec3 \
+\cb13 \strokec3 Dans les premi\'e8res lignes de ces deux propositions de r\'e9sum\'e9s d'un texte de Benjamin Constant (tir\'e9 des
+\f2\i \'a0Principes de politique applicables \'e0 tous les gouvernements
+\f1\i0 , 1815), comparez les choix en termes de reprises ou de r\'e9p\'e9titions des auteurs :\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls41\ilvl0\cf4 \cb13 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Consid\'e9rer que\'a0
+\f0\b le pouvoir
+\f1\b0 \'a0doive \'eatre absolu est une erreur.\'a0
+\f0\b Ce type de pouvoir
+\f1\b0 \'a0ne peut \'eatre laiss\'e9 \'e0 aucune forme de gouvernement.\cf0 \cb1 \uc0\u8232 \cf4 \cb13 Certes l'histoire nous montre les calamit\'e9s dues au pouvoir excessif d'un souverain ou d'une aristocratie ; mais il faut remettre en cause le caract\'e8re absolu du pouvoir, non les diff\'e9rents syst\'e8mes politiques. Lorsque la souverainet\'e9 appartient au peuple, cela ne signifie pas que l'ensemble des citoyens puisse exercer\'a0
+\f0\b ce pouvoir
+\f1\b0 \'a0absolument sur les personnes.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb13 \strokec3 Ici l'auteur choisit la r\'e9p\'e9tition du th\'e8me, ce qui garantit la clart\'e9 de son r\'e9sum\'e9.\cb1 \strokec3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls42\ilvl0
+\f0\b \cf4 \cb13 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 La souverainet\'e9 absolue
+\f1\b0 , quel qu'
+\f0\b en
+\f1\b0 \'a0soit le d\'e9positaire, est fondamentalement n\'e9faste.\cf0 \cb1 \uc0\u8232 \cf4 \cb13 Ha\'efssant les tyrans qui\'a0
+\f0\b en
+\f1\b0 \'a0disposaient, les d\'e9fenseurs de la libert\'e9 ont souhait\'e9\'a0
+\f0\b la
+\f1\b0 \'a0transf\'e9rer au peuple. Mais c'est\'a0
+\f2\i celle-ci
+\f1\i0 \'a0et non ses d\'e9tenteurs qu'il faut incriminer, car m\'eame un peuple ne peut empi\'e9ter sur la part irr\'e9ductible de la libert\'e9 individuelle.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb13 \strokec3 Ici l'auteur choisit les reprises pronominales, ce qui garantit l'unit\'e9 de son r\'e9sum\'e9, mais au risque de perdre le lecteur, qui peut se demander \'e0 un moment donn\'e9 de sa lecture de quoi le texte parle.\cb1 \strokec3 \
+\pard\pardeftab720\sa318\partightenfactor0
+
+\f0\b\fs38\fsmilli19200 \cf0 \cb2 Conclusion\
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\f1\b0\fs28\fsmilli14400 \cf0 Dans ce module, vous avez pris conscience du r\'f4le jou\'e9 par les reprises dans les textes\'a0:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\ri259\sa259\partightenfactor0
+\ls43\ilvl0\cf4 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 assurer la continuit\'e9 et la progression de l'information\'a0;\cb1 \strokec4 \
+\ls43\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 exprimer des points de vue\'a0;\cb1 \strokec4 \
+\ls43\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 participer \'e0 la vis\'e9e argumentative du texte.\cb1 \strokec4 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+\cf0 \cb2 \strokec3 De plus, le texte n'est pas seulement une organisation lin\'e9aire de phrases, c'est aussi une certaine structure dont la disposition dans l'espace, mat\'e9rialis\'e9e par les paragraphes \'e0 l'\'e9crit, rend compte. Les reprises jouent aussi un\'a0
+\f0\b \cb2 \strokec3 r\'f4le structurant
+\f1\b0 \cb2 \strokec3 , en apparaissant en d\'e9but ou en fin de paragraphe pour articuler les mouvements du texte.\cb1 \
+\pard\pardeftab720\li259\fi-260\ri259\sa259\partightenfactor0
+
+\fs28\fsmilli14400 \cf0 \outl0\strokewidth0 \
+}
