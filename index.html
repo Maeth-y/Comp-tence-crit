@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cartes de révision interactives</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="app-header">
+      <h1>📚 Cartes de révision</h1>
+      <p class="subtitle">Français / 中文 — révision douce et interactive</p>
+    </header>
+
+    <section class="status-row">
+      <span id="cardCounter" aria-live="polite">0/0</span>
+      <button id="toggleDetailsBtn" type="button">Voir l’explication détaillée</button>
+    </section>
+
+    <section class="card-stage" aria-live="polite">
+      <article id="flashcard" class="flashcard" tabindex="0" role="button" aria-label="Carte de révision, cliquer pour retourner">
+        <div class="flashcard-inner">
+          <div class="flashcard-face flashcard-front">
+            <h2>Question</h2>
+            <p id="questionText" class="question"></p>
+          </div>
+
+          <div class="flashcard-face flashcard-back">
+            <h2>Réponse</h2>
+            <div class="answer-block">
+              <h3>Réponse courte</h3>
+              <p id="shortAnswerText"></p>
+            </div>
+            <div class="answer-block">
+              <h3>Essentiel à retenir (français)</h3>
+              <p id="essentialFrText"></p>
+            </div>
+            <div class="answer-block">
+              <h3>Essentiel à retenir (中文)</h3>
+              <p id="essentialZhText" class="zh"></p>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section id="detailsPanel" class="details-panel" hidden>
+      <h2>Explication détaillée</h2>
+      <div class="details-grid">
+        <div><h3>Explication détaillée (français)</h3><p id="detailFrText"></p></div>
+        <div><h3>中文详细解释</h3><p id="detailZhText" class="zh"></p></div>
+        <div><h3>Formulation proche du cours (français)</h3><p id="formulationFrText"></p></div>
+        <div><h3>原文对应解释（中文）</h3><p id="formulationZhText" class="zh"></p></div>
+        <div><h3>Mots-clés</h3><p id="keywordsText"></p></div>
+        <div><h3>Piège possible</h3><p id="trapText"></p></div>
+      </div>
+    </section>
+
+    <nav class="controls" aria-label="Contrôles des cartes">
+      <button id="prevBtn" type="button">Précédent</button>
+      <button id="flipBtn" type="button">Retourner</button>
+      <button id="shuffleBtn" type="button">Mélanger</button>
+      <button id="nextBtn" type="button">Suivant</button>
+    </nav>
+
+    <section id="loaderHelp" class="loader-help" hidden>
+      <p>Chargement automatique impossible en <code>file://</code> sur ce navigateur. Choisissez le fichier <strong>cartes_cours_en_ligne.csv</strong> :</p>
+      <input id="csvFileInput" type="file" accept=".csv,text/csv" />
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
